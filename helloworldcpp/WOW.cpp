@@ -4,12 +4,12 @@ using namespace std;
 
 int main()
 {
-    int a, b, c, d;
+    int a, b;
 
     cout << "New Push" << endl;
     cout << "Update Finish" << endl;
-    cin >> a >> b >> c >> d;
-    cout << a << endl << b << endl << c << endl << d << endl;
+    cin >> a >> b;
+    cout << a << endl << b << endl;
 
     return 0;
 }
